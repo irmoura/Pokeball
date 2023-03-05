@@ -1,0 +1,10 @@
+C:\Users\corag\source\repos\Pokeball\bin\Debug\Pokeball.exe.config
+C:\Users\corag\source\repos\Pokeball\bin\Debug\Pokeball.exe
+C:\Users\corag\source\repos\Pokeball\bin\Debug\Pokeball.pdb
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.Form1.resources
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.Properties.Resources.resources
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.exe
+C:\Users\corag\source\repos\Pokeball\obj\Debug\Pokeball.pdb
